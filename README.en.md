@@ -39,19 +39,19 @@ Most voice assistants on the market (and the default setup of smart-home systems
 
 Voice Companion PE flips that logic: **as much as possible happens right there in the house, with no detour.**
 
-- **Speed** — For everything it knows locally, the answer goes out without waiting on a network round trip.
-- **Real personality** — Humor, reactions, teasing, an actual identity rather than a neutral, interchangeable voice.
-- **Broad coverage** — General knowledge, geography, science, philosophy, movies, all kinds of calculations and conversions, games, riddles: dozens of conversation topics covered natively.
-- **Resilience** — A good chunk of what it can do keeps working even if the internet connection has a hiccup.
-- **Built for the home** — Designed around your smart-home setup from the ground up, not bolted on afterward.
-- **Constantly improving** — What it can do keeps expanding.
+- **Speed.** For everything it knows locally, the answer goes out without waiting on a network round trip.
+- **Real personality.** Humor, reactions, teasing: an actual identity rather than a neutral, interchangeable voice.
+- **Broad coverage.** General knowledge, geography, science, philosophy, movies, all kinds of calculations and conversions, games, riddles: dozens of conversation topics covered natively.
+- **Resilience.** A good chunk of what it can do keeps working even if the internet connection has a hiccup.
+- **Built for the home.** Designed around your smart-home setup from the ground up, not bolted on afterward.
+- **Constantly improving.** What it can do keeps expanding.
 
 ## The technical feats, without the details
 
 We won't hand you the recipe, but here's what's under the hood, in essence:
 
 - A language-understanding engine able to recognize dozens of different ways of asking the same question, without ever querying the internet to do so.
-- A fully animated digital face, rendered in real time: the gaze shifts, eyelids blink naturally, breathing gently lifts the head — all computed continuously, frame after frame.
+- A fully animated digital face, rendered in real time: the gaze shifts, eyelids blink naturally, breathing gently lifts the head. All of it computed continuously, frame after frame.
 - A mouth that changes shape depending on what it's saying, to give the genuine impression it's articulating words rather than just making noise alongside a response.
 - An emotion system layered on top of the face's state without ever desyncing the speech: eyebrows and gaze shift while the mouth keeps talking normally.
 - All of it running on modest, widely accessible hardware, not a dedicated server.
