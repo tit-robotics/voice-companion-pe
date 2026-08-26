@@ -39,19 +39,19 @@ La plupart des assistants vocaux du marché (et la configuration par défaut de 
 
 Voice Companion PE renverse la logique : **le plus possible se passe directement dans la maison, sans détour.**
 
-- **Rapidité** — Pour tout ce qu'il connaît en local, la réponse part sans attendre un aller-retour réseau.
-- **Une vraie personnalité** — Humour, réactions, taquineries, une identité propre plutôt qu'une voix neutre et interchangeable.
-- **Un spectre large** — Culture générale, géographie, sciences, philosophie, cinéma, calculs et conversions en tout genre, jeux, devinettes : des dizaines de domaines de conversation couverts nativement.
-- **Résilience** — Une bonne partie de ce qu'il sait faire continue de fonctionner même si la connexion internet a un problème.
-- **Pensé pour la maison** — Construit directement autour de votre installation domotique, pas greffé dessus après coup.
-- **En amélioration continue** — Le champ de ce qu'il sait faire s'élargit régulièrement.
+- **Rapidité.** Pour tout ce qu'il connaît en local, la réponse part sans attendre un aller-retour réseau.
+- **Une vraie personnalité.** Humour, réactions, taquineries : une identité propre plutôt qu'une voix neutre et interchangeable.
+- **Un spectre large.** Culture générale, géographie, sciences, philosophie, cinéma, calculs et conversions en tout genre, jeux, devinettes : des dizaines de domaines de conversation couverts nativement.
+- **Résilience.** Une bonne partie de ce qu'il sait faire continue de fonctionner même si la connexion internet a un problème.
+- **Pensé pour la maison.** Construit directement autour de votre installation domotique, pas greffé dessus après coup.
+- **En amélioration continue.** Le champ de ce qu'il sait faire s'élargit régulièrement.
 
 ## Les prouesses techniques, sans les détails
 
 On ne va pas vous donner la recette, mais voici ce qu'il y a sous le capot, en substance :
 
 - Un moteur de compréhension du langage capable de reconnaître des dizaines de façons différentes de poser la même question, sans jamais interroger internet pour y parvenir.
-- Un visage numérique entièrement animé en temps réel : le regard se déplace, les paupières clignent naturellement, la respiration soulève doucement la tête — tout est calculé en continu, image après image.
+- Un visage numérique entièrement animé en temps réel : le regard se déplace, les paupières clignent naturellement, la respiration soulève doucement la tête. Tout est calculé en continu, image après image.
 - Une bouche qui change de forme selon ce qu'elle prononce, pour donner l'impression réelle qu'il articule ses mots plutôt qu'il émet juste du son en même temps qu'une réponse.
 - Un système d'émotions qui se superpose à l'état du visage sans jamais désynchroniser la parole : les sourcils et le regard changent, la bouche continue de parler normalement.
 - Le tout tourne sur du matériel modeste, largement accessible, pas sur un serveur dédié.
