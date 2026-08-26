@@ -56,6 +56,8 @@ On ne va pas vous donner la recette, mais voici ce qu'il y a sous le capot, en s
 - Un système d'émotions qui se superpose à l'état du visage sans jamais désynchroniser la parole : les sourcils et le regard changent, la bouche continue de parler normalement.
 - Le tout tourne sur du matériel modeste, largement accessible, pas sur un serveur dédié.
 
+Une précision honnête : tout ça ne tient pas encore de la magie instantanée. Reconnaissance vocale, traitement, synthèse de la voix : tout se passe en local, sur du matériel volontairement modeste plutôt que sur un serveur dédié. Il reste donc un peu de latence entre la question et la réponse, plus qu'on ne le voudrait, et on y travaille activement. Ce qui ne changera pas, en revanche, c'est ce principe : tout reste chez vous, du début à la fin.
+
 ## Ça arrive
 
 Le projet est en développement actif. D'autres démonstrations suivront.
