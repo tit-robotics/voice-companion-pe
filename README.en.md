@@ -58,9 +58,13 @@ We won't hand you the recipe, but here's what's under the hood, in essence:
 
 An honest note: this isn't instant magic yet. Speech recognition, processing, and speech synthesis all happen locally, on deliberately modest hardware rather than a dedicated server. That means there's still a bit of latency between question and answer, more than we'd like, and we're actively working on it. What won't change, though, is that principle: everything stays in your home, start to finish.
 
-## Coming soon
+## The demo
 
-The project is under active development. More demos will follow.
+[![Watch the demo](https://img.youtube.com/vi/nouxbZcTU5k/hqdefault.jpg)](https://youtu.be/nouxbZcTU5k)
+
+Some smart-home questions, some more general ones: a good sense of what's already working.
+
+More demos will follow.
 
 ---
 
