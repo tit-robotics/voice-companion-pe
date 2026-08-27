@@ -58,9 +58,13 @@ On ne va pas vous donner la recette, mais voici ce qu'il y a sous le capot, en s
 
 Une précision honnête : tout ça ne tient pas encore de la magie instantanée. Reconnaissance vocale, traitement, synthèse de la voix : tout se passe en local, sur du matériel volontairement modeste plutôt que sur un serveur dédié. Il reste donc un peu de latence entre la question et la réponse, plus qu'on ne le voudrait, et on y travaille activement. Ce qui ne changera pas, en revanche, c'est ce principe : tout reste chez vous, du début à la fin.
 
-## Ça arrive
+## La démo
 
-Le projet est en développement actif. D'autres démonstrations suivront.
+[![Voir la démonstration](https://img.youtube.com/vi/nouxbZcTU5k/hqdefault.jpg)](https://youtu.be/nouxbZcTU5k)
+
+Des questions de domotique, d'autres plus générales : de quoi se faire une idée de ce qui est déjà là.
+
+D'autres démonstrations suivront.
 
 ---
 
