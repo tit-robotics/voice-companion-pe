@@ -33,6 +33,8 @@ And most importantly: **it feels.** Five distinct emotions, each with its own vi
 
 Compliment it and it turns shy. Say something kind and it lights up. Upset it and it sulks. This isn't a speaker executing commands: it's a presence that reacts.
 
+And it doesn't stop at the screen. When a Voice Companion PE unit is connected to a home assistant speaker equipped with a light ring, that ring changes color to match the emotion on display too. The whole physical presence reacts, not just a face on a screen.
+
 ## Why it's different from today's personal assistants
 
 Most voice assistants on the market (and the default setup of smart-home systems in general) share the same flaw: **every question, even the simplest one, round-trips to a server on the other side of the world.** What time is it somewhere, what's 15 times 8, what's the capital of some country: it all goes out to the internet, waits for an answer, every single time.

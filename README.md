@@ -33,6 +33,8 @@ Et surtout : **il ressent.** Cinq émotions distinctes, chacune avec sa propre s
 
 Faites-lui un compliment, il se montre gêné. Dites-lui quelque chose de gentil, il s'illumine. Vexez-le, il boude. Ce n'est pas une enceinte qui exécute des commandes : c'est une présence qui réagit.
 
+Et ça ne s'arrête pas à l'écran. Quand un compagnon Voice Companion PE est connecté à un haut-parleur d'assistance domestique équipé d'un anneau lumineux, celui-ci change aussi de couleur en fonction de l'émotion affichée. Toute la présence physique réagit, pas seulement un visage sur un écran.
+
 ## Pourquoi c'est différent des assistants personnels actuels
 
 La plupart des assistants vocaux du marché (et la configuration par défaut de la domotique en général) partagent le même défaut : **chaque question, même la plus simple, fait un aller-retour vers un serveur à l'autre bout du monde.** Quelle heure est-il dans un fuseau donné, combien font 15 fois 8, quelle est la capitale d'un pays : tout part sur internet, tout attend une réponse, à chaque fois.
